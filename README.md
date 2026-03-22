@@ -58,7 +58,7 @@ This project presents an interactive Car Sales Dashboard built using Power BI to
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](add-your-image-link-here)
+![Dashboard Preview](https://github.com/amdhruv/Car-Sales-data/blob/main/Screenshot%202026-03-22%20122252.png)
 
 ---
 
